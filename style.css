@@ -1,0 +1,77 @@
+.background{
+    background-image:url(assets/background.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    width:100vw;
+    height:100vh;
+}
+
+.container{
+    margin-left:14vw;
+    margin-right:14vw;
+}
+
+.logo{
+    width: 301px;
+    height:78px;
+    margin-top:8vh;
+}
+
+.linkedin{
+    width: 50px;
+    height:50px;
+    margin-bottom:2vh;
+    margin-left: 20vw;
+}
+
+.facebook{
+    width: 50px;
+    height:50px;
+    margin-left:1vw;
+    margin-bottom:2vh;
+}
+
+.insta{
+    width: 50px;
+    height:50px;
+    margin-left:1vw;
+    margin-bottom:2vh;
+}
+
+.text1{
+    font-family: 'Rubik';
+    font-size:26px;
+    color:white;
+    margin-top: 20vh;
+    text-align: center;
+}
+
+.divText2{
+    display: flex;
+    justify-content: center;
+}
+
+.text2{
+    font-family: 'Rubik';
+    font-size:28px;
+    color:white;
+    margin-top: 3vh;
+    text-align: center;
+    margin-right: 0px;
+    width: 700px;
+}
+
+.text3{
+    font-family: 'Rubik';
+    font-size:20px;
+    color:white;
+    margin-top: 18vh;
+    text-align: center;
+    margin-left: 6vw;
+}
+
+.whatsapp{
+    width:7%;
+    height:7%;
+    margin-top: 10vh;
+}
